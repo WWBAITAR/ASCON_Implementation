@@ -1,0 +1,67 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.ip_user_files/ipstatic/simulation/blk_mem_gen_v8_4.v" into library blk_mem_gen_v8_4_5
+INFO: [VRFC 10-311] analyzing module STATE_LOGIC_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_muxf7_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_clr_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_pre_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_ce_clr_v8_4
+INFO: [VRFC 10-311] analyzing module write_netlist_v8_4
+INFO: [VRFC 10-311] analyzing module read_netlist_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_write_wrapper_beh_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_read_wrapper_beh_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_regs_fwd_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5_output_stage
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5_softecc_output_reg_stage
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5_mem_module
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.gen/sources_1/ip/ascon_datain_memory/sim/ascon_datain_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ascon_datain_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/ascon_pack.vhd" into library LIB_RTL
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/new/ASCON.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ASCON'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/new/Data_display.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Data_display'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/new/FSM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FSM'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/new/Tag_display.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Tag_display'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/mux_state.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'mux_state'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/xor_begin_perm.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'xor_begin_perm'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/constant_addition.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'constant_addition'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/sbox.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'sbox'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/substitution_layer.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'substitution_layer'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/diffusion_layer.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'diffusion_layer'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/state_register_w_en.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'state_register_w_en'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/register_w_en.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'register_w_en'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/permutation_full_w_en_w_c_and_t.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'permutation_full_w_en'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/fsm.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'fsm'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/compteur_double_init.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'compteur_double_init'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/compteur_simple_init.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'compteur_simple_init'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/ascon_top.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'ascon_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/xor_end_perm.vhd" into library LIB_RTL
+INFO: [VRFC 10-3107] analyzing entity 'xor_end_perm'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/new/counter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'counter'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ascon_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ascon_tb'
+ERROR: [VRFC 10-2987] 'ascon_configuration' is not compiled in library 'xil_defaultlib' [D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ascon_tb.vhd:162]
+ERROR: [VRFC 10-9458] unit 'ascon_tb_conf' is ignored due to previous errors [D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ascon_tb.vhd:158]
+INFO: [VRFC 10-8704] VHDL file 'D:/WALID/EMSE ETUDES/SEMESTRE 9 2023/Co-design FPGA/ascon_tb.vhd' is ignored due to errors

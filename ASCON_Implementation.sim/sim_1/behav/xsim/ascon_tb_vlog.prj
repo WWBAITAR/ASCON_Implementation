@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../ASCON_Implementation.ip_user_files/ipstatic" \
+"../../../../ASCON_Implementation.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" \
+"../../../../ASCON_Implementation.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" \
+
+verilog blk_mem_gen_v8_4_5  --include "../../../../ASCON_Implementation.ip_user_files/ipstatic" \
+"../../../../ASCON_Implementation.ip_user_files/ipstatic/simulation/blk_mem_gen_v8_4.v" \
+
+verilog xil_defaultlib  --include "../../../../ASCON_Implementation.ip_user_files/ipstatic" \
+"../../../../ASCON_Implementation.gen/sources_1/ip/ascon_datain_memory/sim/ascon_datain_memory.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

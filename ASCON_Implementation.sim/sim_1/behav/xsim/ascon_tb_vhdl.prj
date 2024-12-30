@@ -1,0 +1,32 @@
+# compile vhdl design source files
+vhdl LIB_RTL  \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/ascon_pack.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../ASCON_Implementation.srcs/sources_1/new/ASCON.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/new/Data_display.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/new/FSM.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/new/Tag_display.vhd" \
+
+vhdl LIB_RTL  \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/mux_state.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/xor_begin_perm.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/constant_addition.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/sbox.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/substitution_layer.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/diffusion_layer.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/state_register_w_en.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/register_w_en.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/permutation_full_w_en_w_c_and_t.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/fsm.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/compteur_double_init.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/compteur_simple_init.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/ascon_top.vhd" \
+"../../../../ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/xor_end_perm.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../ASCON_Implementation.srcs/sources_1/new/counter.vhd" \
+"../../../../../ascon_tb.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,19 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/ascon_pack.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/new/ASCON.vhd,,,ascon_pack,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/ascon_top.vhd,1694762107,vhdl,,,,ascon_top;ascon_top_conf,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/compteur_double_init.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/ascon_top.vhd,,,compteur_double_init,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/compteur_simple_init.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/ascon_top.vhd,,,compteur_simple_init,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/constant_addition.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/permutation_full_w_en_w_c_and_t.vhd,,,constant_addition,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/diffusion_layer.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/permutation_full_w_en_w_c_and_t.vhd,,,diffusion_layer,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/fsm.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/ascon_top.vhd,,,fsm,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/mux_state.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/permutation_full_w_en_w_c_and_t.vhd,,,mux_state,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/permutation_full_w_en_w_c_and_t.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/ascon_top.vhd,,,permutation_full_w_en;permutation_full_w_en_conf,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/register_w_en.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/permutation_full_w_en_w_c_and_t.vhd,,,register_w_en,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/sbox.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/substitution_layer.vhd,,,sbox,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/state_register_w_en.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/permutation_full_w_en_w_c_and_t.vhd,,,state_register_w_en,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/substitution_layer.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/permutation_full_w_en_w_c_and_t.vhd,,,substitution_layer;substitution_layer_conf,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/xor_begin_perm.vhd,1684855174,vhdl,C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/permutation_full_w_en_w_c_and_t.vhd,,,xor_begin_perm,,,,,,,,
+C:/Users/eleves/ASCON_Implementation/ASCON_Implementation.srcs/sources_1/imports/SRC/RTL/xor_end_perm.vhd,1684855174,vhdl,,,,xor_end_perm,,,,,,,,
